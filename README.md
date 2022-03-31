@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/4a7d5037bcdd1e74a517a.jpg">
+  <img src="https://te.legra.ph/file/d80b964090be48f640dfa.jpg">
 </p>
 
 <h3 align="center"><b>✨ Vexana RoBot ✨</b></h9>
